@@ -1,7 +1,7 @@
 # NearestNeighbours
 Machine Learning Algorithm
 
-The input consists of two les. The rst le contains cross-validation information, and the second file contains the data.
+The input consists of two files. The first file contains cross-validation information, and the second file contains the data.
 
 The first file
 The numbers in each row are separated by a single space.
